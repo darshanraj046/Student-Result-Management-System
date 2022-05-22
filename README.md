@@ -3,12 +3,12 @@
 This repo contains the code for Student Result Management System using HTML, CSS, PHP
 
 Steps to run the code:
-Step 1 - Download the code and extract all the files from zip file.
-Step 2 - Place the extracted folder in htdocs(XAMPP) or in www(WAMP) folder.
-Step 3 - Start phpMyAdmin and create new database with the name "stud-result-mgmt-sys"
-Step 4 - Go to import tab in phpMyAdmin and import the database file which is in database folder in extracted folder
-Step 5 - Add new tab in your browser and enter the address "localhost/Student-Result-Management-System/"
-Step 6 - To login as a admin use the credentials Email-ID: "darshanraj046@gmail.com" & Password: "darsh123"
+- Download the code and extract all the files from zip file.
+- Place the extracted folder in htdocs(XAMPP) or in www(WAMP) folder.
+- Start phpMyAdmin and create new database with the name "stud-result-mgmt-sys"
+- Go to import tab in phpMyAdmin and import the database file which is in database folder in extracted folder
+- Add new tab in your browser and enter the address "localhost/Student-Result-Management-System/"
+- To login as a admin use the credentials Email-ID: "darshanraj046@gmail.com" & Password: "darsh123"
 
 ### Images
 
